@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: gray;
+}
+.container{
+    width: 100%;
+    height: 220px;
+    background-color: yellow;
+    display: flex;
+}
+.metn{
+    padding-right: 300px;
+}
+.sira{
+    padding-right: 100px;
+}
+ul{
+    padding-top: 10px;
+}

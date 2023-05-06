@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box1{width: 200px;
+    height: 100px;
+    background-color: orange; border: 1px solid black;
+
+}
+.box2{width: 200px;
+    height: 120px;
+    background-color: orange; 
+    border: 1px solid black;
+
+}
+.box3{
+    width: 200px;
+    height: 80px;
+    background-color: orange;
+    border: 1px solid black;
+}
+.border{
+    display: flex;
+    border: 1px solid yellow;
+}
